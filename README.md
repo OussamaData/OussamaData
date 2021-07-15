@@ -2,7 +2,7 @@
 - 👀 I’m interested in interdisciplinarity
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects, where I can built my first skills on data 
-- 📫 How to reach me ...
+- 📫 I can be reach by message 
 
 <!---
 OussamaData/OussamaData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
